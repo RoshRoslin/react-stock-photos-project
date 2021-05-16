@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-/static/css/main.a44d4aa5.chunk.css",
-    "main.js": "/react-/static/js/main.301940ac.chunk.js",
-    "main.js.map": "/react-/static/js/main.301940ac.chunk.js.map",
-    "runtime-main.js": "/react-/static/js/runtime-main.cc8a6b5f.js",
-    "runtime-main.js.map": "/react-/static/js/runtime-main.cc8a6b5f.js.map",
-    "static/js/2.ee72bb2a.chunk.js": "/react-/static/js/2.ee72bb2a.chunk.js",
-    "static/js/2.ee72bb2a.chunk.js.map": "/react-/static/js/2.ee72bb2a.chunk.js.map",
-    "index.html": "/react-/index.html",
-    "precache-manifest.a0cd9333be54b4501ab629b726395276.js": "/react-/precache-manifest.a0cd9333be54b4501ab629b726395276.js",
-    "service-worker.js": "/react-/service-worker.js",
-    "static/css/main.a44d4aa5.chunk.css.map": "/react-/static/css/main.a44d4aa5.chunk.css.map",
-    "static/js/2.ee72bb2a.chunk.js.LICENSE.txt": "/react-/static/js/2.ee72bb2a.chunk.js.LICENSE.txt"
+    "main.css": "/react-stock-photos-project/static/css/main.a44d4aa5.chunk.css",
+    "main.js": "/react-stock-photos-project/static/js/main.301940ac.chunk.js",
+    "main.js.map": "/react-stock-photos-project/static/js/main.301940ac.chunk.js.map",
+    "runtime-main.js": "/react-stock-photos-project/static/js/runtime-main.fe15d50d.js",
+    "runtime-main.js.map": "/react-stock-photos-project/static/js/runtime-main.fe15d50d.js.map",
+    "static/js/2.ee72bb2a.chunk.js": "/react-stock-photos-project/static/js/2.ee72bb2a.chunk.js",
+    "static/js/2.ee72bb2a.chunk.js.map": "/react-stock-photos-project/static/js/2.ee72bb2a.chunk.js.map",
+    "index.html": "/react-stock-photos-project/index.html",
+    "precache-manifest.829eb5fabf1ecaec5c2a524aa326f469.js": "/react-stock-photos-project/precache-manifest.829eb5fabf1ecaec5c2a524aa326f469.js",
+    "service-worker.js": "/react-stock-photos-project/service-worker.js",
+    "static/css/main.a44d4aa5.chunk.css.map": "/react-stock-photos-project/static/css/main.a44d4aa5.chunk.css.map",
+    "static/js/2.ee72bb2a.chunk.js.LICENSE.txt": "/react-stock-photos-project/static/js/2.ee72bb2a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.cc8a6b5f.js",
+    "static/js/runtime-main.fe15d50d.js",
     "static/js/2.ee72bb2a.chunk.js",
     "static/css/main.a44d4aa5.chunk.css",
     "static/js/main.301940ac.chunk.js"
